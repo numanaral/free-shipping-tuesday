@@ -24,6 +24,7 @@
 
 ## How to create a free shipping label:
 1. [Login](https://www.canadapost-postescanada.ca/shippingtools-outilsexpedition/en/cart) to your `Small Business Account`:
+	1. [Sign up](https://sso-osu.canadapost-postescanada.ca/pfe-pap/en/registration/business/new) if you don't have a `Small Business` account already.
 	<img width="1792" alt="image" src="https://user-images.githubusercontent.com/25233323/196012235-76e37975-a601-490a-a545-74ffbdd908a4.png">
 2. You will be redirected to the `Snap Ship` page if you followed the above link. Click on `Create new shipment`:
 	<img width="1792" alt="image" src="https://user-images.githubusercontent.com/25233323/196012220-b87db0f8-b13f-46de-a8f9-44e72c04fb91.png">
