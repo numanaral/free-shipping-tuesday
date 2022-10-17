@@ -19,8 +19,10 @@
 	- You can have multiple business accounts.
 	- There is no hard limit but please don't abuse it too much.
 - Max dimensions & weight.
-	- You can prepare the labels early as long as you know the other party's address.
-	- You can enter the max dimensions and weight even if the package won't be as big and heavy as lister here. It's okay to over-estimate but it is NOT okay to under-estimate.
+	- You can generally prepare the labels early as long as you know the other party's address.
+		- You can enter the max dimensions and weight even if the package won't be as big and heavy as listed here. It's okay to over-estimate but it is NOT okay to under-estimate.
+		- Though it's a good practice to check with the person beforehand (if you can) to see what type of boxes they may be using. If they are reusing a small flat rate shipping box, the dimensions (rounded higher) will be `36cm x 27cm x 6cm` which may not fit the max dimensions you thought of using (i.e. `29cm x 29cm x 29cm`).
+		- In my opinion, the safest unknown max dimension (which can also satisfy `Small Flat Rate box`) is `36cm x 30cm x 23cm`.
 
 ## How to create a free shipping label:
 1. [Login](https://www.canadapost-postescanada.ca/shippingtools-outilsexpedition/en/cart) to your `Small Business Account`:
@@ -47,9 +49,9 @@
 	1. Select `Box, mailer or triangular mailing tube` option:
 		<img width="1792" alt="image" src="https://user-images.githubusercontent.com/25233323/196013090-db70b20c-cec5-4036-b308-a7a7517c792f.png">
 	2. Enter the dimensions and the weight for your package:
-		- You can enter the max dimensions and weight even if the package won't be as big and heavy as lister here. It's okay to over-estimate but it is NOT okay to under-estimate.
+		- You can enter the max dimensions and weight even if the package won't be as big and heavy as listed here. It's okay to over-estimate but it is NOT okay to under-estimate. Though it's a good practice to check with the person beforehand (if you can) to see what type of boxes they may be using. If they are reusing a small flat rate shipping box, the dimensions (rounded higher) will be `36cm x 27cm x 6cm` which may not fit the max dimensions you thought of using (i.e. `29cm x 29cm x 29cm`). In my opinion, the safest unknown max dimension (which can also satisfy `Small Flat Rate box`) is `36cm x 30cm x 23cm`.
 			- Use the `Save package details for future use.` option so that you don't have to type this info in the future.
-		<img width="1792" alt="image" src="https://user-images.githubusercontent.com/25233323/196013317-60f56331-cb62-48e9-a44e-6dbcaff16e89.png">
+			<img width="1792" alt="196013317-60f56331-cb62-48e9-a44e-6dbcaff16e89" src="https://user-images.githubusercontent.com/25233323/196246058-984d33b0-5c38-44c1-8951-0d8652919c5d.png">
 	3.  Once you filled it all, click `Continue`.
 6. Fill out the shipping service info:
 	1. Select `Expedited Parcel` option. This will add a charge for the label but don't worry about it as the promot code will lower it to $0.
